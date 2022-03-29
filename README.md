@@ -36,9 +36,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - Realizada em Swagger para fácil manutenção e consumo da api.
 
-<h2 align="center">
-   [Postman teste](https://github.com/Camargovf/ApiBanco/blob/main/Captura%20de%20Tela%202022-03-29%20às%2016.21.21.png)
-</h2>
 
 ### Author.   Valdeir Camargo -  BackEnd Java/Javascript Dev.
 <br />

@@ -8,7 +8,7 @@ https://github.com/Camargovf/ApiBanco/tree/master
 <h1 align="center">Rest API realizada em Springboot - EM ANDAMENTO - </h1>
 
 ## 📄Descrição do Projeto
-<p align="center"> O Projeto ainda nao recebeu funcoes como saldo/deposito/saque (Podera ser implantado) - Por favor visualizar a foto do teste postman. Aplicação criada em ambiente Spring - Crud para cadastro de clientes relacionados com conta e regra de negocio bancario.<br> 
+<p align="center"> O Projeto ainda nao recebeu funcoes como -deposito/saque- (Podera ser implantado) - Por favor visualizar a foto do teste postman. Aplicação criada em ambiente Spring - Crud para cadastro de clientes relacionados com conta e regra de negocio bancario.<br> 
  Projeto ambientado com Springboot em IDE Intelijj com banco de dados PostgreSQL. </p>
 
 

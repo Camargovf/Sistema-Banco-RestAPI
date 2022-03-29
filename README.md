@@ -5,7 +5,7 @@ https://github.com/Camargovf/ApiBanco/tree/master
     <img alt="Springboot" title="#Springboot" src="https://raw.githubusercontent.com/Camargovf/v1-restapi-produtos/cf7d945cf5c13aa553bfc93006f69942ce8e0bba/springboot.jpeg" />
 </h1>
 
-<h1 align="center">Rest API realizada em Springboot</h1>
+<h1 align="center">Rest API realizada em Springboot - EM ANDAMENTO - </h1>
 
 ## 📄Descrição do Projeto
 <p align="center"> Aplicação criada em ambiente Spring - Crud para cadastro de clientes relacionados com conta e regra de negocio bancario.<br> 
@@ -37,7 +37,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Realizada em Swagger para fácil manutenção e consumo da api.
 
 <h2 align="center">
-   [Postman teste](https://github.com/Camargovf/ApiBanco/blob/main/Captura%20de%20Tela%202022-03-29%20às%2016.21.21.png?raw=true)
+   [Postman teste](https://github.com/Camargovf/ApiBanco/blob/main/Captura%20de%20Tela%202022-03-29%20às%2016.21.21.png)
 </h2>
 
 ### Author.   Valdeir Camargo -  BackEnd Java/Javascript Dev.

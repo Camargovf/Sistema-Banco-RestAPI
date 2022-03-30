@@ -21,7 +21,7 @@ curl --location --request GET 'http://localhost:8080/clientes'
 
 ```
 
-Criar um cliente
+Criar/Alterar/Deletar um cliente (POST, PUT, DELETE)
 
 ```javascript
 
@@ -35,6 +35,20 @@ curl --location --request POST 'http://localhost:8080/clientes' \
     "cep": "487772"
 }'
 
+```
+CURL para Conta relacionado com Cliente (Saldo)
+
+```javascript
+curl --location --request POST 'http://localhost:8080/contas' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+"cliente": {
+        "id": 1
+    },
+"conta": {
+        "saldo": 522
+    }
+}'
 ```
 
 

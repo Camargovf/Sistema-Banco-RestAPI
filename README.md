@@ -11,6 +11,14 @@ https://github.com/Camargovf/ApiBanco/tree/master
 <p align="center"> O Projeto ainda nao recebeu funcoes como -deposito/saque- (Podera ser implantado) - Por favor visualizar a foto do teste postman. Aplicação criada em ambiente Spring - Crud para cadastro de clientes relacionados com conta e regra de negocio bancario.<br> 
  Projeto ambientado com Springboot em IDE Intelijj com banco de dados PostgreSQL. </p>
 
+## CURL
+
+```javascript
+
+//
+
+```
+
 
 ### ⚙️ Acesso direto ao repositório: [CODE FONTE](https://github.com/Camargovf/ApiBanco/tree/master)<br>
  Código Fonte : https://github.com/Camargovf/ApiBanco/tree/master<br>

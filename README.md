@@ -13,11 +13,29 @@ https://github.com/Camargovf/ApiBanco/tree/master
 
 ## CURL
 
+Listar todos os clientes.
+
 ```javascript
 
-//
+curl --location --request GET 'http://localhost:8080/clientes'
 
 ```
+
+Criar um cliente
+
+```javascript
+
+curl --location --request POST 'http://localhost:8080/clientes' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "id": 3,
+    "nome": "xxxx",
+    "cpf": "223123",
+    "telefone": "3278683",
+    "cep": "487772"
+}'
+
+``
 
 
 ### ⚙️ Acesso direto ao repositório: [CODE FONTE](https://github.com/Camargovf/ApiBanco/tree/master)<br>

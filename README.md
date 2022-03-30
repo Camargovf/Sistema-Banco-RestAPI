@@ -35,7 +35,7 @@ curl --location --request POST 'http://localhost:8080/clientes' \
     "cep": "487772"
 }'
 
-``
+```
 
 
 ### ⚙️ Acesso direto ao repositório: [CODE FONTE](https://github.com/Camargovf/ApiBanco/tree/master)<br>

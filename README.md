@@ -8,11 +8,15 @@
 ### ⚙️ Acesso direto ao repositório: [CODE FONTE](https://github.com/Camargovf/ApiBanco/tree/master)<br>
  Código Fonte : https://github.com/Camargovf/ApiBanco/tree/master<br>
 
-<h1 align="center">Rest API realizada em Springboot - EM ANDAMENTO - </h1>
+<h1 align="center">Rest API realizada em Springboot - </h1>
 
 ## 📄Descrição do Projeto
-<p align="center"> O Projeto ainda nao recebeu funcoes como -deposito/saque- (Podera ser implantado) - Por favor visualizar a foto do teste postman. Aplicação criada em ambiente Spring - Crud para cadastro de clientes relacionados com conta e regra de negocio bancario.<br> 
- Projeto ambientado com Springboot em IDE Intelijj com banco de dados PostgreSQL. </p>
+<p align="center"> Aplicação criada em ambiente Spring - Crud para cadastro de clientes relacionados com conta e regra de negocio bancario.<br> 
+ Projeto ambientado com Springboot em IDE Intelijj com banco de dados PostgreSQL.  </p>
+ 
+ ## Novas Features
+ <p align="center"> O projeto esta ambientado para receber novas features, a implementacao de funcoes como deposito-saque e afins prontos para implementacao.`  </p>
+ 
 
 ## 📝 CURL - COMANDOS RESTAPI. 
 

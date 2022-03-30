@@ -15,7 +15,7 @@
  Projeto ambientado com Springboot em IDE Intelijj com banco de dados PostgreSQL.  </p>
  
  ## Novas Features
- <p align="center"> O projeto esta ambientado para receber novas features, a implementacao de funcoes como deposito-saque e afins prontos para implementacao.`  </p>
+ <p align="center"> O projeto esta ambientado para receber novas features, a implementacao de funcoes como deposito-saque e afins prontos para implementacao.  </p>
  
 
 ## 📝 CURL - COMANDOS RESTAPI. 

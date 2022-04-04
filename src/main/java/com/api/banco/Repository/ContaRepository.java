@@ -10,18 +10,18 @@ import org.springframework.transaction.annotation.Transactional;
 
 @Transactional(readOnly = false)
 public interface ContaRepository extends JpaRepository<Conta, Long>{
-    //Conta findByPessoaIdPessoa(@Param("idPessoa") Long pessoaId);
 
-//    @Modifying
-//    @Query("update conta c set c.saldo = c.saldo + ?1 where c.id = ?2")
-//    void setFixedSaldoFor(double  quantidade, Long id);
-//
-//
-//    Conta findByIdConta(Long id);
-//
-//    @Modifying
-//    @Query("update conta c set c.saldo = c.saldo - ?1 where c.id = ?2")
-//    void setFixedSaldo(double  quant, Long id);
+
+    @Modifying
+    @Query("update conta c set c.saldo = c.saldo + ?1 where c.id = ?2")
+    void setFixedSaldoFor(double  quantidade, Long id);
+
+
+    Conta findByIdConta(Long id);
+
+    @Modifying
+    @Query("update conta c set c.saldo = c.saldo - ?1 where c.id = ?2")
+    void setFixedSaldo(double  quant, Long id);
 
 
 }
